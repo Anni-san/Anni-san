@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Animesh Verma
+# Hii there! 👋 I'm Animesh Verma
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Problem+Solver;DSA+Learner;Building+Real+World+Projects" alt="Typing SVG" />
