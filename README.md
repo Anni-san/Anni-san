@@ -128,45 +128,51 @@ class AnimeshVerma {
 
 ## 🔥 Featured Projects & Contributions
 
-<div align="center">
-
-### 🌟 Projects
+## 🌟 Projects
 
 <table>
-  <tr>
+<tr>
 
-    <td align="center">
-      <a href="https://github.com/Anni-san/FarmXChain">
-        <img src="https://img.shields.io/badge/🌾_FarmXChain-4CAF50?style=for-the-badge&logo=blockchain-dot-com&logoColor=white" alt="FarmXChain"/>
-      </a>
-      <br/>
-      <sub><b>FarmXChain</b></sub>
-      <br/>
-      <sub>Blockchain • Supply Chain • Team Project</sub>
-    </td>
+<td width="50%" align="center">
 
-    <td align="center">
-      <a href="https://github.com/Anni-san/My_portfolio">
-        <img src="https://img.shields.io/badge/💼_Portfolio-2196F3?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
-      </a>
-      <br/>
-      <sub><b>Personal Portfolio</b></sub>
-      <br/>
-      <sub>HTML • CSS • JavaScript</sub>
-    </td>
+### 🌾 FarmXChain
 
-    <td align="center">
-      <a href="https://github.com/Anni-san/spring_auth">
-        <img src="https://img.shields.io/badge/🔐_Spring_Auth_API-FF6B6B?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Auth"/>
-      </a>
-      <br/>
-      <sub><b>Spring Boot Authentication API</b></sub>
-      <br/>
-      <sub>Java • Spring Boot • MySQL</sub>
-    </td>
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+![Web3](https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge)
+![Team Project](https://img.shields.io/badge/Team_Project-FF6B6B?style=for-the-badge)
 
-  </tr>
+A blockchain-based agricultural supply chain platform improving transparency between farmers, suppliers and consumers.
+
+<br>
+
+<a href="https://github.com/Anni-san/FarmXChain">
+<img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🔐 Spring Authentication System
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-red?style=for-the-badge)
+
+Secure backend authentication system built using Spring Boot with login, registration and JWT security.
+
+<br>
+
+<a href="https://github.com/Anni-san/spring_auth">
+<img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
 </table>
+
+---
 
 ### 🚀 Contributions
 - Developed **FarmXChain** as part of a **5-member team project**
@@ -175,11 +181,12 @@ class AnimeshVerma {
 - Creating **open source repositories for learning and development**
 
 </div>
+
 ---
 
 ## 🎯 Current Focus & Goals
 
-<div align="center">
+<div >
 
 ### 🔭 Currently Working On
 - Building backend applications using **Java and Spring Boot**
@@ -216,82 +223,88 @@ class AnimeshVerma {
 ### 🚀 My Latest Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 >🌾 FarmXChain</h3>
-      <div >
-        <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Team_Project-FF6B6B?style=for-the-badge" />
-      </div>
-      <br>
-      <p >
-        A blockchain-based agricultural supply chain platform built with a team of 5 members to improve transparency, traceability, and trust between farmers, suppliers, and consumers.
-      </p>
-      <div >
-        <a href="https://github.com/Anni-san/FarmXChain">
-          <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
+<tr>
 
-    <td width="50%">
-      <h3 align="center">🔐 Spring Authentication System</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-JWT-red?style=for-the-badge" />
-      </div>
-      <br>
-      <p align="center">
-        A backend authentication system built using Spring Boot that implements secure login, registration, and JWT-based authentication for scalable web applications.
-      </p>
-      <div align="center">
-        <a href="https://github.com/Anni-san/spring_auth">
-          <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr>
+<td width="50%" align="center">
 
-  <tr>
-    <td width="50%">
-      <h3 >💼 Personal Portfolio</h3>
-      <div >
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      </div>
-      <br>
-      <p >
-        A personal portfolio website showcasing my projects, technical skills, and development journey as a software engineer.
-      </p>
-      <div >
-        <a href="https://github.com/Anni-san/My_portfolio">
-          <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
+### 🌾 FarmXChain
 
-    <td width="50%">
-      <h3 >📚 Java DSA Repository</h3>
-      <div >
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data_Structures-007396?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge" />
-      </div>
-      <br>
-      <p >
-        A repository dedicated to practicing and implementing Data Structures and Algorithms in Java to strengthen problem solving and interview preparation.
-      </p>
-      <div >
-        <a href="https://github.com/Anni-san/JAVA_DSA">
-          <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr>
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Team_Project-FF6B6B?style=for-the-badge"/>
+
+A blockchain-based agricultural supply chain platform built with a team of 5 members to improve transparency, traceability, and trust between farmers, suppliers, and consumers.
+
+<br>
+
+<a href="https://github.com/Anni-san/FarmXChain">
+<img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🔐 Spring Authentication System
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security-JWT-red?style=for-the-badge"/>
+
+A backend authentication system built using Spring Boot that implements secure login, registration, and JWT-based authentication.
+
+<br>
+
+<a href="https://github.com/Anni-san/spring_auth">
+<img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 💼 Personal Portfolio
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+A personal portfolio website showcasing my projects, technical skills, and development journey.
+
+<br>
+
+<a href="https://github.com/Anni-san/My_portfolio">
+<img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📚 Java DSA Repository
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Structures-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge"/>
+
+A repository dedicated to practicing Data Structures and Algorithms in Java.
+
+<br>
+
+<a href="https://github.com/Anni-san/JAVA_DSA">
+<img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
 </table>
+
+---
 
 ### 📊 GitHub Activity Stats
 
@@ -385,7 +398,7 @@ developer_philosophy:
 | **Git & GitHub Workflows** | ███████▒▒▒ 70% | ⚡ Improving | Professional development workflow |
 ---
 
-<div >
+<div align="center" >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together!&descAlignY=85&descAlign=62" />
 </div>
 
@@ -399,9 +412,9 @@ developer_philosophy:
 
 *Last updated: March 2026*
 
-</div>
+</div >
 
-<div >
+<div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by coffee" />
   <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="Contains cat gifs" />
