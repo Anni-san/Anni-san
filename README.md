@@ -67,7 +67,7 @@ class AnimeshVerma {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anni-san&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FFD700&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FF6B6B&dates=FFFFFF&sideLabels=FFFFFF&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Anni-san&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FFD700&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FF6B6B&dates=FFFFFF&sideLabels=FFFFFF&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -75,7 +75,7 @@ class AnimeshVerma {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anni-san&theme=redical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&border_radius=10" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anni-san&theme=radical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&border_radius=10" alt="Contribution Graph" />
 </div>
 
 ---
