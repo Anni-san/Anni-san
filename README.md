@@ -17,7 +17,7 @@
 
 ---
 
-## About Myself
+## About Me
 
 ```java
 class AnimeshVerma {
